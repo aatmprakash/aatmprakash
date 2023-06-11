@@ -41,9 +41,11 @@ This project focuses on image classification using the advanced CNN architecture
 In this project, I explore transfer learning and regularization techniques for human protein labeling tasks. The project showcases my understanding of deep learning, transfer learning, and regularization methods in the context of bioinformatics.
 
 ## Contact
-Feel free to explore these projects in more detail by visiting the respective repositories. If you have any questions or feedback, please don't hesitate to reach out. I am open to collaborations and new opportunities.
+Feel free to explore these projects in more detail by visiting the respective repositories. If you have any questions or feedback, please don't hesitate to reach out. I am open to collaborations and new opportunities:
 
-Thank you for visiting my profile!
+- Email: [a.psagardrem@gmail.com]
+- GitHub: [aatmprakash](https://github.com/aatmprakash)
+- Twitter: [@aaatmprakash](https://twitter.com/AaatmPrakash)
+- LinkedIn: [Aatm Prakash](https://www.linkedin.com/in/aatm-prakash-03b82a223/)
 
-
-
+Thank you for visiting my profile, and I look forward to connecting with you!
