@@ -12,7 +12,7 @@ In this profile, you will find an overview of my skills, experience, and notable
 ## Skills
 
 - **Programming Languages:** [C++, Python, Julia]
-- **Deep Learning Frameworks:** [Pytorch, Sklearn, ]
+- **Deep Learning Frameworks:** [Pytorch, Sklearn]
 - **Computer Vision:** [Open CV]
 - **Data Analysis:** [Numpy, Pandas, Seaborn]
 - **LINUX**
