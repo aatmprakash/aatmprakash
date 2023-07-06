@@ -1,5 +1,10 @@
 <h1 align="center">Hi 👋, I'm Aatm prakash</h1>
-<h3 align="center">A passionate Neural Net Researcher & ML Engineer (Student) from India with a keen interest in computer vision and machine learning. I enjoy working on challenging projects that push the boundaries of technology and contribute to real-world problem-solving. I'm Curious to learn and study this vast universe thought my skill & love.</h3>
+<h3 align="center">Passionate Neural Net Researcher & ML Engineer (Student) 
+from India with a keen interest in computer vision and machine 
+learning. I enjoy working on challenging projects that push the 
+boundaries of technology and contribute to real-world 
+problem-solving. I'm Curious to learn and study this vast 
+universe thought my skills & love.</h3>
 
 In this profile, you will find an overview of my skills, experience, and notable projects. I invite you to explore and learn more about my work. If you have any questions or would like to collaborate, please feel free to reach out.
 
@@ -10,10 +15,10 @@ In this profile, you will find an overview of my skills, experience, and notable
 - **Deep Learning Frameworks:** [Pytorch, Sklearn, ]
 - **Computer Vision:** [Open CV]
 - **Data Analysis:** [Numpy, Pandas, Seaborn]
-- **LINUX:**
-- **Git & github:**
-- **Kubernetes and Docker:**
-- **Azure & Google Cloud:**
+- **LINUX**
+- **Git & github**
+- **Kubernetes and Docker**
+- **Azure & Google Cloud**
 
 ## Projects
 
