@@ -24,6 +24,15 @@ In this profile, you will find an overview of my skills, experience, and notable
 
 Here are some of the notable projects I have worked on:
 
+### [Summary and Sentiment NLP Project](https://github.com/aatmprakash/Summary-and-Sentiment-Nlp)
+Welcome to the Summary and Sentiment NLP project! This repository aims to provide natural language processing functionalities to summarize text and analyze sentiments. We believe this project has great potential, and we are excited to invite collaborators to join us in making it even better.** It only works for yelp.com aiim to make it better.
+
+## Project Overview [ Looking for contributers]
+
+The main objective of this project is to develop an NLP application that can summarize lengthy texts and perform sentiment analysis on them. With this tool, users can quickly grasp the essence of long documents and gain insights into the overall sentiment expressed in the text.
+
+![Image Alt Text](https://github.com/aatmprakash/Summary-and-Sentiment-Nlp/blob/88bf6bdf567542a9d545e6d68615926ca0aea30c/Screenshot%20from%202023-07-24%2021-31-22.png)
+
 ### [ResNet-34/18 Pneumonia CNN](https://github.com/aatmprakash/ResNet__34__18---Pneumonia-CNN)
 This project implements a convolutional neural network (CNN) using the ResNet-34/18 architecture for pneumonia detection from chest X-ray images. It aims to provide an automated solution for accurate diagnosis, contributing to early intervention and treatment of pneumonia.
 
