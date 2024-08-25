@@ -24,10 +24,28 @@ In this profile, you will find an overview of my skills, experience, and notable
 
 Here are some of the notable projects I have worked on:
 
-### [Summary and Sentiment NLP Project](https://github.com/aatmprakash/Summary-and-Sentiment-Nlp)
-Welcome to the Summary and Sentiment NLP project! This repository aims to provide natural language processing functionalities to summarize text and analyze sentiments. We believe this project has great potential, and we are excited to invite collaborators to join us in making it even better.** It only works for yelp.com aiim to make it better.
 
-## Project Overview [ Looking for contributers]
+## [Luvkush Chat AI](https://github.com/aatmprakash/Luvkush-AI-chat)
+
+This project is a chatAI built with Next.js and React. It allows users to interact with a chatbot that responds using the Generative Language API. The component maintains a conversation history and displays messages in a user-friendly format.
+### Features
+
+- Real-time chat with a chatbot.
+- Displays user and bot messages with styling.
+- Tailwind css and other lib used.
+- Typing indicator ans animation when the bot is generating a response.
+- Integrated with the Generative Language API for generating responses.
+
+![image](https://github.com/user-attachments/assets/e9c7d36b-7aaf-4b99-8a31-b2275393652e)
+
+
+.
+.
+.
+## [Comment and reviewa Analysis with AI](https://github.com/aatmprakash/Summary-and-Sentiment-Nlp)
+Welcome to the This is a project where you can select any product form website like amazon, or any food website and we can analyze it comments and Review! This repository aims to provide natural language processing functionalities to summarize text and analyze sentiments. We believe this project has great potential, and we are excited to invite collaborators to join us in making it even better.** It only works for yelp.com aiim to make it better**.
+
+### Project Overview [ Looking for contributers]
 
 The main objective of this project is to develop an NLP application that can summarize lengthy texts and perform sentiment analysis on them. With this tool, users can quickly grasp the essence of long documents and gain insights into the overall sentiment expressed in the text.
 
