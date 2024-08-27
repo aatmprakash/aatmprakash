@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aatm prakash</h1>
-<h3 align="center">3 🌟 Competitive programmer and ML engineer specializing in LangChain and large language models, with a strong
-background in full-stack development.</h3>
-
-In this profile, you will find an overview of my skills, experience, and notable projects. I invite you to explore and learn more about my work. If you have any questions or would like to collaborate, please feel free to reach out.
-
+<h3 align="center">3 🌟 Competitive Programmer and Machine Learning Engineer with expertise in LangChain, large language
+models, and a solid background in full-stack development. Skilled in developing AI-driven solutions and
+integrating complex systems for real-time applications.</h3>
 
 ## Skills
 
