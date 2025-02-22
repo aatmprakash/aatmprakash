@@ -42,7 +42,7 @@ This project is a chatAI built with Next.js and React. It allows users to intera
 .
 .
 .
-## [Comment and reviewa Analysis with AI](https://github.com/aatmprakash/Summary-and-Sentiment-Nlp)
+## [Comment and review Analysis with AI](https://github.com/aatmprakash/Summary-and-Sentiment-Nlp)
 Welcome to the This is a project where you can select any product form website like amazon, or any food website and we can analyze it comments and Review! This repository aims to provide natural language processing functionalities to summarize text and analyze sentiments. We believe this project has great potential, and we are excited to invite collaborators to join us in making it even better.** It only works for yelp.com aiim to make it better**.
 
 ### Project Overview [ Looking for contributers]
